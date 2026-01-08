@@ -1,0 +1,5 @@
+{
+  "name": "Переводчик комиксов",
+  "description": "A specialized tool for translating comic book pages. Detects text bubbles, translates them using Gemini AI, and redraws them over the original image.",
+  "requestFramePermissions": []
+}
